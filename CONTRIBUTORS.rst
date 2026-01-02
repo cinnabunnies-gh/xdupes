@@ -7,4 +7,4 @@ Maintainers
 Source Contributors
 ===================
 
-- Eva `@cinnabunnies-gh <https://github.com/cinnabunnies-gh>`
+- Cinnabunnies `@cinnabunnies-gh <https://github.com/cinnabunnies-gh>`
